@@ -353,8 +353,4 @@ Data: **Stats NZ**, Food Price Index (Infoshare). Stats NZ data is licensed unde
 
 ---
 
-## About me
 
-**Susmita Kumari Giri**
-Master of Digital Business (AI and Business Analytics), University of Waikato. MBA in Finance.
-Interested in **pricing analyst, commercial analyst and business analyst** roles in New Zealand.
